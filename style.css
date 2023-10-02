@@ -1,0 +1,36 @@
+
+.red{
+  padding-top: 80px;
+
+}
+STRONG {
+  font-size: 25px;
+  padding: 20px;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: normal;
+  text-align: right;
+}
+body{
+  background-image: url("https://www.helenashawaiianfood.com/2018%20Site/hhf_2018/img/Home_pg_bkgrnd.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.r-1{
+  background-color: white;
+  margin-top: 10vh;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.log {
+  width: 389px;
+  length: 100px;
+}
+.hit{
+  font-family: 'Lora',Serif;
+  font-style: italic;
+  font-size: 100px;
+  text-align: center;
+  color: white;
+  padding-top: 100px;
+}
