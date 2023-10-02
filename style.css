@@ -47,6 +47,11 @@ body{
 }
 .title{
   margin-top: 110px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+.background{
+  background-color: white;
 }
 .txet{
   margin-bottom: 70px;
