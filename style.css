@@ -98,17 +98,38 @@ STRONG {
 .white{
   background-color: white;
 }
+.black{
+  background-color: #333333;
+  width: 100vw;
+  height: 327px;
+  color: white;
+}
 .jc1{
   justify-content: left;
 }
 .jcr{
   justify-content: right;
 }
+.jcsb{
+  justify-content: space-between;
+}
 .left-sec{
   margin-top: 10vh;
   padding-right: 2vw;
+  max-width: 50vw;
 }
 .right-sec{
   padding-left: 2vw;
   margin-top: 10vh;
+  max-width: 25vw;
+}
+#img-dim2{
+  width: 450px;
+  height: 360px;
+}
+#mid-sec1{
+  margin-bottom: 50vh;
+}
+p{
+  font-size: 18px;
 }
