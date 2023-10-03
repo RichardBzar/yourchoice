@@ -4,6 +4,7 @@
 }
 .img-pos{
   margin-left: 30px;
+  margin-top: 20px;
 }
 STRONG {
   font-size: 25px;
@@ -12,15 +13,19 @@ STRONG {
   font-weight: normal;
   text-align: right;
 }
-body{
+.cover-1{
   background-image: url("https://www.helenashawaiianfood.com/2018%20Site/hhf_2018/img/Home_pg_bkgrnd.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
+.space{
+  width: 100vw;
+  height: 8vh;
+}
 .row-container{
   background-color: white;
   margin-top: 10vh;
-  padding-top: 20px;
+
   padding-bottom: 20px;
   text-align: center;
 }
@@ -43,7 +48,7 @@ body{
   background-color: transparent;
   color: white;
   border-color: white;
-  padding-bottom: 15px;
+  margin-bottom: 15vh;
 }
 .title{
   margin-top: 110px;
@@ -52,6 +57,7 @@ body{
 }
 .background{
   background-color: white;
+  margin-top: 10vh;
 }
 .txet{
   margin-bottom: 70px;
@@ -62,4 +68,47 @@ body{
 }
 #container {
   text-align: center;
+}
+#head-welc{
+  font-family: 'Lora', Serif;
+  padding-top: 5vh;
+  font-size: 2em;
+  font-weight: 400;
+  margin-bottom: 0.5em;
+  color: #333;
+  margin-top: 7em;
+}
+.under-head{
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 0;
+  padding-top: 0;
+  margin-bottom: -18px;
+  padding-bottom: 0;
+}
+.text-headp{
+  padding-bottom: 13em;
+}
+#black-line{
+  margin: auto;
+  width: 45vw;
+  height: 1.5px;
+  background-color: black;
+}
+.white{
+  background-color: white;
+}
+.jc1{
+  justify-content: left;
+}
+.jcr{
+  justify-content: right;
+}
+.left-sec{
+  margin-top: 10vh;
+  padding-right: 2vw;
+}
+.right-sec{
+  padding-left: 2vw;
+  margin-top: 10vh;
 }
